@@ -1,0 +1,28 @@
+1.Defina o seguinte termo: Sistema de Gerenciamento de Banco de Dados.
+
+Sistema de Gerenciamento de Banco de Dados é uma coleção de programas que
+ permite ao usuário definir, construir e manipular Bancos de Dados para as
+  mais diversas finalidades
+
+2.Quais as vantagens da utilização de um sistema de bancos de dados?
+
+A redundância consiste no armazenamento de uma mesma informação em locais diferentes, gerando 
+inconsistências. Em um Banco de Dados as informações só se encontram armazenadas em um único local,
+ não existindo duplicaçãodescontrolada dos dados.
+
+3.Descreva as características gerais de um sistema gerenciador de base de dados.
+
+O SGBD deve incluir software de controle de concorrência ao acesso dos dados, garantindo em qualquer
+ tipo de situação a escrita/leitura de dados sem erros.
+
+4.Descrever o modelo relacional de dados.
+
+o modelo relacional apresenta o banco de dados como uma coleçao uma coleçao de relacoes.
+
+5. Em se tratando de Bancos de Dados Relacionais, qual a função da Chave Primária em uma tabela?
+
+Em um ambiente de banco de dados, o recurso primário é o banco de dados por si só e o recurso secundário
+ é o SGBD e ossoftwares relacionados. A administração destes recursos cabe ao Administrador de Banco de
+  Dados, o qual é responsável pela autorização de acesso ao banco de dados e pela coordenação e 
+  monitoramento de seu uso.
+
